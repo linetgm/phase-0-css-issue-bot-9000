@@ -1,20 +1,21 @@
 body {
-  background-color: pink;
+  background:pink;
 }
 
 h1 {
   color: blue;
-  font-size: 3cm 
+  font-size: 3em; 
 }
 
 h2 {
   color: green;
   font-weight: normal;
-   font-style: normal;
+  font-style: italic;
 }
 
 .completed {
-  font-family:fantasy;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 12px;
 }
 
 #tasks .completed {
